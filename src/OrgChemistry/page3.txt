@@ -1,4 +1,5 @@
 testing levels :
+
 - Unit testing
 - Integration testing
 - System testing
@@ -21,6 +22,8 @@ who: Developers
 
 { in some companies, SDET can do integration testing. }
 Env: the dev env
+
 do you have experience performing integration testing?
+
 - no, I do not have experience, in my project, our dev performed the 
 integration testing.  but I am willing to learn it.
