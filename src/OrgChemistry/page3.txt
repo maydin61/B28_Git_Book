@@ -3,14 +3,22 @@ testing levels :
 - Integration testing
 - System testing
 - UAT - User Acceptance Testing
+
+
+
 req: login function
+
+
 1. Unit testing -> testing the small unit / individual module of the app 
 from the code perspective. Also called module/component testing.
 who : Developers
 env : the dev env
+
 2. Integration testing -> testing 2 or mroe modules of the application 
 and see if they work together or not.
+
 who: Developers
+
 { in some companies, SDET can do integration testing. }
 Env: the dev env
 do you have experience performing integration testing?
